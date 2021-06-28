@@ -43,7 +43,7 @@ An exercise in Python, this project consists of two separate parts: PyBank and P
 
 
 - - -
-This assignment is from data Denver University's Data Analytics Boot Camp. 
-## Copyright
+This assignment is from the University of Denver's Data Analytics Boot Camp. 
+### Copyright
 
-Trilogy Education Services © 2019. All Rights Reserved.
+Trilogy Education Services © 2020. All Rights Reserved.
